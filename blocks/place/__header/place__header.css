@@ -1,11 +1,11 @@
-.place__top {
+.place__header {
   display: flex;
   align-items: flex-end;
   margin: 0 0 48px 0;
 }
 
-@media screen and (min-width:320px) and (max-width:768px) {
-  .place__top {
+@media screen and (max-width:767px) {
+  .place__header {
     flex-direction: column;
     margin: 0 0 32px 0;
   }

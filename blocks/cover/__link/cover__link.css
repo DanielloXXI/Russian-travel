@@ -1,0 +1,13 @@
+.cover__link {
+  max-width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
+
+.cover__link:visited {
+  text-decoration: none;
+}
+
+.cover__link:active {
+  text-decoration: none;
+}

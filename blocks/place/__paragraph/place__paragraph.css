@@ -8,11 +8,7 @@
   width: 484px;
 }
 
-.place__paragraph:nth-child(2) {
-  margin: 0;
-}
-
-.place__paragraph:only-child {
+.place__paragraph:last-child {
   margin:0;
 }
 

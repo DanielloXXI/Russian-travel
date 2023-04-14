@@ -1,10 +1,18 @@
-# Проект: Путешествие по России
+<h1 align="center">Project "Russian travel"</h1>
 
-### Прогресс
-* Адаптация под устройства
-* Grid and flex
-* Картинки и соответствие с макетом
+<img src="./images/ReadMe/main.jpg" width="100%">
 
-**Ссылочка**
+<h2 align="center"><a  href="https://danielloxxi.github.io/how-to-learn/">Test site</a></h2>
 
-https://danielloxxi.github.io/yet-another-project/index.html
+## Description
+
+Beginner level landing, adaptation for mobile devices and laptops, 
+
+## Used technologies: 
+
+- **CSS BEM** 
+- **HTML**
+
+## Try my other projects!
+
+<h2 align="center"><a href="https://github.com/DanielloXXI?tab=repositories"><img src="./images/ReadMe/clickme.png"></a></center></h2>

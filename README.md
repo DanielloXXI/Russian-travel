@@ -2,7 +2,7 @@
 
 <img src="./images/ReadMe/main.jpg" width="100%">
 
-<h2 align="center"><a  href="https://danielloxxi.github.io/how-to-learn/">Test site</a></h2>
+<h2 align="center"><a  href="https://danielloxxi.github.io/Russian-travel/">Test site</a></h2>
 
 ## Description
 
